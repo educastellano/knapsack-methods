@@ -2,9 +2,11 @@
 
 Different approaches to solve the [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem#0.2F1_Knapsack_Problem)
 
-## Usage
+## Install
 
     npm install knapsack-methods
+
+## Usage
 
 ```js
 import { k01 as knapsack } from 'knapsack-methods'
