@@ -1,0 +1,15 @@
+{
+  "name": "knapsack-methods",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
